@@ -8,6 +8,3 @@ function sayName(){
     console.log('My Name is' +name1)
 }
 
-function isAbove(){
-    return age >= 18
-}
